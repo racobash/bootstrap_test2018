@@ -1,0 +1,24 @@
+h2{
+  border-radius: 5px;
+}
+
+.container{
+  max-width: 1400px;
+}
+
+.jumbotron{
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.jumbotron h1{
+  font-weight: 700;
+}
+
+.card-img-top{
+  height: 250px;
+}
+
+#quem_somos{
+  text-align: center;
+}
